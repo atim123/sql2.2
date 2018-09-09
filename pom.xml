@@ -37,8 +37,8 @@
         
         <dependency>
             <groupId>org.xsystem</groupId>
-            <artifactId>system</artifactId>
-            <version>GL-10.0</version>
+            <artifactId>org.xsystem.system</artifactId>
+            <version>GH-2.0</version>
             <scope>provided</scope>
         </dependency>
 
